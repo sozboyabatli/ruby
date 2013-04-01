@@ -1,0 +1,2 @@
+puts "merhaba dünya!"
+
